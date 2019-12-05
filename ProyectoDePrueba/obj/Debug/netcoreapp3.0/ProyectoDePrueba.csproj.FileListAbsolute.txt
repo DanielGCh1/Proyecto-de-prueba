@@ -1,0 +1,11 @@
+C:\Users\dgcha\Documents\GitHub\Proyecto-de-prueba\ProyectoDePrueba\bin\Debug\netcoreapp3.0\ProyectoDePrueba.exe
+C:\Users\dgcha\Documents\GitHub\Proyecto-de-prueba\ProyectoDePrueba\bin\Debug\netcoreapp3.0\ProyectoDePrueba.deps.json
+C:\Users\dgcha\Documents\GitHub\Proyecto-de-prueba\ProyectoDePrueba\bin\Debug\netcoreapp3.0\ProyectoDePrueba.runtimeconfig.json
+C:\Users\dgcha\Documents\GitHub\Proyecto-de-prueba\ProyectoDePrueba\bin\Debug\netcoreapp3.0\ProyectoDePrueba.runtimeconfig.dev.json
+C:\Users\dgcha\Documents\GitHub\Proyecto-de-prueba\ProyectoDePrueba\bin\Debug\netcoreapp3.0\ProyectoDePrueba.dll
+C:\Users\dgcha\Documents\GitHub\Proyecto-de-prueba\ProyectoDePrueba\bin\Debug\netcoreapp3.0\ProyectoDePrueba.pdb
+C:\Users\dgcha\Documents\GitHub\Proyecto-de-prueba\ProyectoDePrueba\obj\Debug\netcoreapp3.0\ProyectoDePrueba.csprojAssemblyReference.cache
+C:\Users\dgcha\Documents\GitHub\Proyecto-de-prueba\ProyectoDePrueba\obj\Debug\netcoreapp3.0\ProyectoDePrueba.AssemblyInfoInputs.cache
+C:\Users\dgcha\Documents\GitHub\Proyecto-de-prueba\ProyectoDePrueba\obj\Debug\netcoreapp3.0\ProyectoDePrueba.AssemblyInfo.cs
+C:\Users\dgcha\Documents\GitHub\Proyecto-de-prueba\ProyectoDePrueba\obj\Debug\netcoreapp3.0\ProyectoDePrueba.dll
+C:\Users\dgcha\Documents\GitHub\Proyecto-de-prueba\ProyectoDePrueba\obj\Debug\netcoreapp3.0\ProyectoDePrueba.pdb
